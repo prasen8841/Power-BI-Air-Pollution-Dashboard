@@ -59,3 +59,9 @@
 - Example DAX:
   ```dax
   AVERAGEX(FILTER(...), [Value])
+
+### 📣 Connect
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasenjitsaha8841/)) for data projects, dashboard design, or collaboration.
+
+---
+
